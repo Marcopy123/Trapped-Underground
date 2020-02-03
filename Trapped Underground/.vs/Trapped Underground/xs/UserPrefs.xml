@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1D18C9C9-8421-A994-782E-9A862568EFC3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/sceneloader.cs">
+    <Files>
+      <File FileName="Assets/scripts/sceneloader.cs" Line="45" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trapped Underground" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="sceneloader.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="89e1762c-9409-44bb-8bfb-df2305b0809c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
